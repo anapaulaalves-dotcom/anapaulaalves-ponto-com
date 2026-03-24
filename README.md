@@ -1,1 +1,1 @@
-# anapaulaalves-ponto-com
+Sou professora de matemática, cursando mestrado em educação e para enriquecer minhas práticas pedagógicas eu iniciei o curso de Desenvolvimento de Sistema na ETEC, espero aprender programar e que isso reflitana minha vida profissional. 
